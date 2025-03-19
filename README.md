@@ -1,7 +1,9 @@
 # ProjectRPG
 
 ## ⬛ Sobre o Aplicativo
-**ProjectRPG** é um ambiente digital criado para jogadores e mestres de RPG de mesa que desejam uma experiência imersiva e organizada. A plataforma permite gerenciar fichas de personagens, acessar servidores exclusivos, configurar perfis e muito mais. Atualmente, o software está disponível **apenas para macOS**, mas futuras atualizações incluirão suporte para **Windows**.
+**ProjectRPG** é um ambiente digital criado para jogadores e mestres de RPG de mesa que desejam uma experiência imersiva e organizada. A plataforma permite gerenciar fichas de personagens, acessar servidores exclusivos, configurar perfis e muito mais. Atualmente, o software está disponível **apenas para macOS**, pois o desenvolvimento está sendo realizado nesta plataforma.
+
+Embora ainda não tenha um lançamento oficial para **Windows**, qualquer pessoa interessada pode solicitar uma versão de teste. A compilação para Windows exige algumas adaptações manuais, mas posso disponibilizar versões sob demanda para aqueles que quiserem experimentar antes do lançamento oficial.
 
 ## ◼ Funcionalidades
 - **Fichas de Personagens** – Criação e gerenciamento detalhado dentro do servidor.
@@ -20,6 +22,8 @@ O **ProjectRPG** está em **desenvolvimento inicial** e evolui constantemente. A
 
 ## ⬛ Download
 Acesse a versão mais recente de **ProjectRPG** através da aba [Releases](https://github.com/seuusuario/seurepositorio/releases).
+
+Para usuários de **Windows**, entre em contato caso queira testar uma versão experimental antes do lançamento oficial.
 
 ## ◼ Direitos Autorais
 Este software é **proprietário** e **todos os direitos são reservados**.
