@@ -1,4 +1,4 @@
-# 🧩 ProjectRPG (Pré-Alpha)
+# 🎲 ProjectRPG (Pré-Alpha)
 
 ## ⬛ Sobre o Projeto
 **ProjectRPG** é uma plataforma digital criada para **jogadores e mestres de RPG de mesa** que buscam uma experiência imersiva, conectada e personalizável.  
