@@ -1,52 +1,78 @@
-# ProjectRPG
+# 🧩 ProjectRPG (Pré-Alpha)
 
-## ⬛ Sobre o Aplicativo
-**ProjectRPG** é um ambiente digital criado para jogadores e mestres de RPG de mesa que desejam uma experiência imersiva e organizada. A plataforma permite gerenciar fichas de personagens, acessar servidores exclusivos, configurar perfis e muito mais. Atualmente, o software está disponível **apenas para macOS**, pois o desenvolvimento está sendo realizado nesta plataforma.
+## ⬛ Sobre o Projeto
+**ProjectRPG** é uma plataforma digital criada para **jogadores e mestres de RPG de mesa** que buscam uma experiência imersiva, conectada e personalizável.  
+O sistema oferece ferramentas para gerenciar personagens, servidores e mecânicas de jogo, tudo em um ambiente interativo e em constante evolução.
 
-Embora ainda não tenha um lançamento oficial para **Windows**, qualquer pessoa interessada pode solicitar uma versão de teste. A compilação para Windows exige algumas adaptações manuais, mas posso disponibilizar versões sob demanda para aqueles que quiserem experimentar antes do lançamento oficial.
+Atualmente, o **ProjectRPG está disponível apenas para Windows** e encontra-se em **versão pré-alpha** — ou seja, **muitas funções ainda estão em desenvolvimento e podem conter bugs**.  
+O objetivo nesta fase é **coletar feedback**, identificar falhas e receber **ideias para novas mecânicas ou melhorias**.
 
-## ◼ Funcionalidades
-- **Fichas de Personagens** – Criação e gerenciamento detalhado dentro do servidor.
-- **Servidores de Jogo** – Criar e ingressar em sessões de RPG online.
-- **Configuração de Perfil** – Personalização profunda do usuário.
-- **Rolagem de Dados** – Sistema integrado para jogadas dentro do chat.
-- **Comunicação** – Chat dinâmico para interações diretas entre jogadores.
-- **Controle do Mestre** – Supervisão completa das fichas dos jogadores dentro da sessão.
+---
 
-## ⬤ Estado do Desenvolvimento
-O **ProjectRPG** está em **desenvolvimento inicial** e evolui constantemente. Acompanhe o progresso:
+## ⚙️ Estado Atual do Desenvolvimento
+🚧 **Versão:** Pré-Alpha  
+📅 **Atualizações:** Geralmente Semanais  
+💬 **Feedback:** Toda ajuda é bem-vinda! Relate bugs, ideias e sugestões diretamente pelo GitHub ou servidor do Discord.
 
-- **Atualmente**: Implementação da mecânica de criação e entrada em servidores.
-- **Próximos passos**: Desenvolvimento do sistema de fichas customizáveis e painel avançado do mestre.
-- **Visão futura**: Personalização total da experiência de jogo.
+### 🔹 Sistemas implementados
+- **LdR (Ruby’s Moon)** – Sistema jogável atualmente ativo e em melhoria constante.  
+- **D&D** – **Desativado temporariamente** para revisão e criação de uma nova mecânica.  
+- **Dados customizados** – Agora é possível personalizar seus próprios dados.  
+- **Personalização de Servidor** – Recursos de customização em expansão.
 
-## ⬛ Download
-Acesse a versão mais recente de **ProjectRPG** através da aba [Releases](https://github.com/seuusuario/seurepositorio/releases).
+---
 
-Para usuários de **Windows**, entre em contato caso queira testar uma versão experimental antes do lançamento oficial.
+## 🧠 Principais Funcionalidades (em construção)
+- **Fichas de Personagens** – Criação e gerenciamento com base no sistema do servidor.  
+- **Servidores de Jogo** – Crie e entre em mundos personalizados.  
+- **Perfis de Usuário** – Personalize sua identidade dentro do jogo.  
+- **Rolagem de Dados Integrada** – Com suporte a dados personalizados.  
+- **Chat e Interação** – Comunicação entre jogadores e mestre.  
+- **Painel do Mestre** – Gerenciamento centralizado das fichas e eventos da sessão (em desenvolvimento).
 
-## ◼ Direitos Autorais
-Este software é **proprietário** e **todos os direitos são reservados**.
+---
 
-Ao utilizar o **ProjectRPG**, você concorda que:
+## ⬇️ Download
+Baixe a versão mais recente de **ProjectRPG** na aba [Releases](https://github.com/eumsmus/ProjectRPG/releases).  
 
-- Qualquer modificação, redistribuição ou revenda **são estritamente proibidas**.
-- Não é permitido reivindicar autoria ou redistribuir este software sob outro nome.
-- **ProjectRPG é uma criação exclusiva de Marcelo Jr Araújo**, e qualquer tentativa de apropriação indevida poderá resultar em medidas legais.
+⚠️ **Aviso:**  
+Esta é uma **versão de testes pré-alpha** e pode conter **erros, bugs e funções incompletas**. Use por sua conta e risco.  
+Se encontrar algum problema, **abra uma issue no GitHub** ou envie feedback no Servidor do Discord.
 
-## ⬤ Acompanhe o Desenvolvimento
-Se quiser acompanhar o progresso do **ProjectRPG**, fique de olho nesta página do GitHub e participe do nosso **servidor do Discord** para discussões, sugestões e atualizações.
+---
 
-🔗 **Servidor do Discord:** [Insira o link aqui]
+## 🧾 Direitos Autorais
+**ProjectRPG** é um software **proprietário** e **todos os direitos são reservados** a **Marcelo Jr Araujo** (XzDarkFox).  
 
-Se curte gameplays, também estou presente no YouTube e na Twitch, onde compartilho conteúdos focados em jogos.
+Você **não tem permissão para:**
+- Modificar ou redistribuir o app sem autorização;  
+- Reivindicar autoria;  
+- Revender ou utilizar o software com fins comerciais.  
 
-- 🎥 **YouTube** – Conteúdo sobre games e diversão.
-- 🎮 **Twitch** – Lives com gameplays e interação com a comunidade.
+Uso restrito a fins de **teste e feedback** durante a fase pré-alpha.
 
-## ⬤ Divulgação e Contato
-Para qualquer divulgação, utilize **exclusivamente** o repositório oficial:
+---
 
-🔗 [https://github.com/seuusuario/seurepositorio](https://github.com/seuusuario/seurepositorio)
+## 💬 Comunidade e Contato
+Quer ajudar no desenvolvimento, dar feedback ou acompanhar as novidades?
 
-📧 **Contato:** [seuemail@exemplo.com]
+- 💬 **[Servidor do Discord](https://discord.gg/Jrpc2ThfyJ)**  
+- 📺 **YouTube:** Conteúdo sobre games e desenvolvimento.  
+- 🎮 **Twitch:** Lives com gameplays e testes do ProjectRPG.  
+- 📧 **Contato:** [mj.dev@icloud.com]
+
+🔗 **Repositório oficial:** [https://github.com/eumsmus/projectRPG](https://github.com/eumsmus/projectRPG)
+
+---
+
+## 💡 Contribuições
+Sugestões, ideias e relatórios de erro são **muito bem-vindos!**  
+O objetivo do projeto nesta fase é **melhorar a experiência e expandir os sistemas** com base no feedback da comunidade.
+
+---
+
+### ✨ Nota Final
+> O **ProjectRPG** ainda está nas primeiras etapas de construção — espere bugs, falhas e muitas mudanças.  
+> Cada atualização semanal traz pequenas melhorias, novas funções e correções sugeridas pela comunidade.  
+
+> 💬 “Toda crítica construtiva ajuda o projeto a crescer!”
