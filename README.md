@@ -57,9 +57,8 @@ Uso restrito a fins de **teste e feedback** durante a fase pré-alpha.
 Quer ajudar no desenvolvimento, dar feedback ou acompanhar as novidades?
 
 - 💬 **[Servidor do Discord](https://discord.gg/Jrpc2ThfyJ)**  
-- 📺 **YouTube:** Conteúdo sobre games e desenvolvimento.  
-- 🎮 **Twitch:** Lives com gameplays e testes do ProjectRPG.  
-- 📧 **Contato:** [mj.dev@icloud.com]
+- 📺 **YouTube & Twitch:** XzDarkFox.  
+- 📧 **Contato:** mj.dev@icloud.com
 
 🔗 **Repositório oficial:** [https://github.com/eumsmus/projectRPG](https://github.com/eumsmus/projectRPG)
 
